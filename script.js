@@ -42,7 +42,7 @@ const perguntas = [
             },
             {
                 texto: "Passar a cola e correr o risco!",
-                afirmacao: "Essa prova era muito importânte e bem vigiada."
+                afirmacao: "Não foi dessa vez."
             }
         ]
     },
