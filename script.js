@@ -8,15 +8,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual a melhor forma de se preparar para uma prova?",
+        enunciado: "Qual a melhor forma de se preparar para uma avaliação?",
         alternativas: [
             {
-                texto: "Estudo e se esforçar!",
-                afirmacao: "Parabens! Seu esforço valeu a pena. Não pare agora, continue se dedicando!"
+                texto: "Estudo e se esforçar",
+                afirmacao: "Os Estudos, o Esforço e a Dedicação é o melhor caminho"
             },
             {
                 texto: "Chutar tudo e depender da sorte.",
-                afirmacao: "Puts! Não foi o seu dia de sorte. Tente novamente ou procure um trevo de quatro folhas."
+                afirmacao: "Talvez você poderia pensar um pouco melhor"
             }
         ]
     },
@@ -25,7 +25,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você fará o trabalho antes de tudo e ter a garantia de uma boa nota?",
-                afirmacao: "Antes só do que bem reprovado"
+                afirmacao: "Sempre avante!"
             },
             {
                 texto: "Você ira deixar para ultima hora?",
@@ -42,7 +42,7 @@ const perguntas = [
             },
             {
                 texto: "Passar a cola e correr o risco!",
-                afirmacao: "Essa prova era muito importânte e bem vigiada... Você foi pego...F"
+                afirmacao: "Essa prova era muito importânte e bem vigiada."
             }
         ]
     },
