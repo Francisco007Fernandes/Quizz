@@ -38,11 +38,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Não passar a cola e não correr o risco",
-                afirmacao: "Parabéns! foi a melhor escolha"
+                afirmacao: "Espero que tenha gostado"
             },
             {
                 texto: "Passar a cola e correr o risco!",
-                afirmacao: "Não foi dessa vez."
+                afirmacao: "Espero que tenha gostado"
             }
         ]
     },
