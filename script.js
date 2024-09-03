@@ -16,7 +16,7 @@ const perguntas = [
             },
             {
                 texto: "Chutar tudo e depender da sorte.",
-                afirmacao: "Puts! Não foi o sdeu dia de sorte. Tente novamente ou procure um trevo de quatro folhas."
+                afirmacao: "Puts! Não foi o seu dia de sorte. Tente novamente ou procure um trevo de quatro folhas."
             }
         ]
     },
@@ -24,17 +24,17 @@ const perguntas = [
         enunciado: "Esta chegando um importânte trabalho valendo nota, porém você tem que tomar uma difícil decisão.",
         alternativas: [
             {
-                texto: "Fazer o trabalho sozinho e ter a garantia de uma boa nota?",
+                texto: "Você fará o trabalho antes de tudo e ter a garantia de uma boa nota?",
                 afirmacao: "Antes só do que bem reprovado"
             },
             {
-                texto: "Juntar com os amigos do fundão e depender dps esforços deles",
-                afirmacao: "Deixe as diversões para o final. Sua história é você quem escreve, não seus colégas."
+                texto: "Você ira deixar para ultima hora?",
+                afirmacao: "Deixe as diversões para o final. Faça seus deveres antes de tudo."
             }
         ]
     },
     {
-        enunciado: "Na prova final, seus clégas estão pedindo cola, o que você fará?",
+        enunciado: "Na prova final, seus colégas estão pedindo cola, o que você fará?",
         alternativas: [
             {
                 texto: "Não passar a cola e não correr o risco",
@@ -42,7 +42,7 @@ const perguntas = [
             },
             {
                 texto: "Passar a cola e correr o risco!",
-                afirmacao: "Essa prova era muito importânte e bem vogiada... Você foi pego...F"
+                afirmacao: "Essa prova era muito importânte e bem vigiada... Você foi pego...F"
             }
         ]
     },
