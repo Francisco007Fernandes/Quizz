@@ -81,7 +81,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Você passou de ano...VIVA";
+    caixaPerguntas.textContent = "Vamos ver seus resultados";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
